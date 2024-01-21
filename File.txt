@@ -1,1 +1,10 @@
-the brown man jump over fence
+the 10 brown foxes jump over the 3.5 foot tall fence .67
+    hi # comment
+this "String is crazy \" " `pattern \``
+ 3 + 3.5 += 9 -= 99;
+ BEGIN {
+
+ }
+ END {
+
+ } .67
